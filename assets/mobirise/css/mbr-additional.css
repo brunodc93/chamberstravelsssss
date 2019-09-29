@@ -1821,8 +1821,8 @@ body {
   color: #ffffff !important;
 }
 .cid-rDpLaO8ob5 {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 105px;
+  padding-bottom: 45px;
   background-color: #333333;
 }
 .cid-rDpLaO8ob5 H1 {
@@ -2503,8 +2503,8 @@ body {
   color: #ffffff !important;
 }
 .cid-rDpLem17tz {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 105px;
+  padding-bottom: 45px;
   background-color: #333333;
 }
 .cid-rDpLem17tz H1 {
@@ -2565,6 +2565,9 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-rDqEKFhTzf .plan-title {
+  color: #232323;
+}
 .cid-rDqERbk2dt {
   padding-top: 0px;
   padding-bottom: 30px;
@@ -2619,6 +2622,9 @@ body {
   .cid-rDqERbk2dt .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-rDqERbk2dt .plan-title {
+  color: #232323;
 }
 .cid-rDpMCsVsRK {
   padding-top: 0px;
@@ -3207,8 +3213,8 @@ body {
   color: #ffffff !important;
 }
 .cid-rDpLh03lun {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 105px;
+  padding-bottom: 45px;
   background-color: #333333;
 }
 .cid-rDpLh03lun H1 {
@@ -3880,7 +3886,7 @@ body {
 .cid-rDpKSvYW11 {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/1548154669611-928x522.jpg");
 }
 .cid-rDpKSvYW11 H1 {
   text-align: left;
@@ -4596,7 +4602,7 @@ body {
 .cid-rDpLnOf58C {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/images-12-848x362.jpg");
 }
 .cid-rDpLnOf58C H1 {
   text-align: left;
@@ -5195,7 +5201,7 @@ body {
 .cid-rDpLkolbiU {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/images-7-739x415.jpg");
 }
 .cid-rDpLkolbiU H1 {
   text-align: left;
@@ -5794,7 +5800,7 @@ body {
 .cid-rDpLuGmfKl {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/wiki-lourdes-21-740x493.jpg");
 }
 .cid-rDpLuGmfKl H1 {
   text-align: left;
@@ -7104,7 +7110,7 @@ body {
 .cid-rDpLxOAxK9 {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/paris-2017-home-2000x889.jpg");
 }
 .cid-rDpLxOAxK9 H1 {
   text-align: left;
@@ -7703,7 +7709,7 @@ body {
 .cid-rDpLBjlrNA {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/images-15-848x362.jpg");
 }
 .cid-rDpLBjlrNA H1 {
   text-align: left;
@@ -8302,7 +8308,7 @@ body {
 .cid-rDpLDMroGA {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/images-2-773x396.jpg");
+  background-image: url("../../../assets/images/eprix-de-rome-2019-les-horaires-de-la-course-de-formule-e-1280x720.jpg");
 }
 .cid-rDpLDMroGA H1 {
   text-align: left;
@@ -9000,6 +9006,64 @@ body {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-rDqIOvUl7X {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rDqIOvUl7X .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rDqIOvUl7X .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rDqIOvUl7X .mbr-text {
+  color: #767676;
+}
+.cid-rDqIOvUl7X .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-rDqIOvUl7X .mbr-author-name {
+  color: #767676;
+}
+.cid-rDqIOvUl7X .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rDqIOvUl7X .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rDqIOvUl7X .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rDqIOvUl7X .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rDqIOvUl7X .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-rDqIOvUl7X .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-rDpN1JtEjQ {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -9684,6 +9748,64 @@ body {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-rDqJjMPYE5 {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rDqJjMPYE5 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rDqJjMPYE5 .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rDqJjMPYE5 .mbr-text {
+  color: #767676;
+}
+.cid-rDqJjMPYE5 .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-rDqJjMPYE5 .mbr-author-name {
+  color: #767676;
+}
+.cid-rDqJjMPYE5 .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rDqJjMPYE5 .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rDqJjMPYE5 .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rDqJjMPYE5 .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rDqJjMPYE5 .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-rDqJjMPYE5 .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
 .cid-rDp2RlxS5h {
   padding-top: 45px;
